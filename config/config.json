@@ -1,0 +1,22 @@
+{
+    "development": {
+      "username": "root",
+      "password": null,
+      "database": "passguru",
+      "params": {
+        "dialect": "mysql",
+        "host": "localhost",
+        "logging": false
+      }
+    },
+    "production": {
+      "username": "root",
+      "password": "p-6{v@g3gAJ=R6>n",
+      "database": "tospaygateway",
+      "params": {
+        "dialect": "mysql",
+        "host": "localhost",
+        "logging": false
+      }
+    }
+}

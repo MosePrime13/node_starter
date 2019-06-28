@@ -1,0 +1,7 @@
+node_modules
+src
+deploy.sh
+logs/*.log
+tsconfig.json
+nodemon.json
+.env
