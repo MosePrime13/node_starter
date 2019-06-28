@@ -1,5 +1,5 @@
 node_modules
-src
+build
 deploy.sh
 logs/*.log
 tsconfig.json
